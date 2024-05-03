@@ -3316,7 +3316,7 @@ header {
         background: linear-gradient(to right, #671fa7, #ff9200); }
       .our-team .section-wrapper .team-content .team-thumb img {
         width: 100%;
-        height: 135%;
+        height: 110%;
         transition: all 0.3s ease-in-out; }
     .our-team .section-wrapper .team-content .team-text h4 {
       margin: 0;
